@@ -62,7 +62,7 @@ El objetivo de este proyecto es **aprender y demostrar el manejo del DOM, evento
 
 ## Autor
 
-**Tu nombre**  
+**Sergio Contreras Palomera**  
 [GitHub](https://github.com/scpzlx)
 
 ---
